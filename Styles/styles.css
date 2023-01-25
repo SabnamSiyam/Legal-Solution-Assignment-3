@@ -1,4 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:wght@500&family=Poppins:wght@500&display=swap");
 
-*{
-    font-family: 'Poppins', sans-serif;
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.header_text {
+  font-family: "EB Garamond", serif;
+}
+.dark_06 {
+  color: #e7e7e7;
+}
+.dark_03 {
+  color: #707070;
+}
+
+main {
+  background-image: url(/images/banner.png);
 }
