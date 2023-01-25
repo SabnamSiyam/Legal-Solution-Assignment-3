@@ -17,3 +17,24 @@
 main {
   background-image: url(/images/banner.png);
 }
+
+.slider_1 {
+  background: rgba(17, 17, 17, 0.8);
+  width: 1182px;
+  height: 500px;
+  background-image: url(/images/slider-1.jpg);
+}
+
+.slider_2 {
+  background: rgba(17, 17, 17, 0.8);
+  width: 1182px;
+  height: 500px;
+  background-image: url(/images/banner.png);
+}
+
+.slider_3 {
+  background: rgba(17, 17, 17, 0.8);
+  width: 1182px;
+  height: 500px;
+  background-image: url(/images/slider-3.jpg);
+}
